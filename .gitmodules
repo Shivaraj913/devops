@@ -1,0 +1,3 @@
+[submodule "trial1"]
+	path = trial1
+	url = git@github.com:Shivaraj913/trial1.git
